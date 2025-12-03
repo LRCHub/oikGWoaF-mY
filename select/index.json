@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "たださよなら、命燃え尽きるまで",
+  "base_artist": "レトロリロン",
+  "createdAt": "2025-12-03T07:58:35.652302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "たださよなら、命燃え尽きるまで",
+      "artist": "レトロリロン",
+      "has_synced": true,
+      "path": "select/01_たださよなら、命燃え尽きるまで_レトロリロン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "たださよなら、命燃え尽きるまで",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_たださよなら、命燃え尽きるまで_レトロリロン.txt"
+    }
+  ]
+}
